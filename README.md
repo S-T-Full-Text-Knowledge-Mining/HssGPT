@@ -22,5 +22,7 @@
 ![翻译任务效果](./images/translation.png)
 
 ## 模型开源地址
-基座模型：[HssGPT-Base](https://huggingface.co/KM4STfulltext/HssGPT-Base)
-指令模型：[HssGPT](https://huggingface.co/KM4STfulltext/HssGPT)
+|||
+|--|--|
+|基座模型|[HssGPT-Base](https://huggingface.co/KM4STfulltext/HssGPT-Base)|
+|指令模型|[HssGPT](https://huggingface.co/KM4STfulltext/HssGPT)|
